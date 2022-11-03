@@ -27,3 +27,9 @@
 - jupyter-static.datacamp.com
 - competitions-app.datacamp.com
 - session.datacamp.com
+---
+## Check this again
+- studiocdn.rec.net
+- link.rec.net
+---
+
