@@ -32,4 +32,5 @@
 - studiocdn.rec.net
 - link.rec.net
 ---
-
+## Successful DNS checks from slidego.com
+- dev.slidesgo.com
