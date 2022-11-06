@@ -15,3 +15,7 @@
 - ftp.slidesgo.com
 - content.slidesgo.com
 - testing.slidesgo.com
+---
+- mailing.ing.com
+- enterpriseregistration.ing.com
+---
