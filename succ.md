@@ -34,3 +34,6 @@
 ---
 ## Successful DNS checks from slidego.com
 - dev.slidesgo.com
+## Successful DNS checks from ing.com
+- ingthink.slgnt.eu
+- 
