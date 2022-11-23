@@ -1,100 +1,100 @@
 ## *.ing.com
-accept-online.ing.com
-us-dist.ing.com
-commercial.ing.com
-online.ing.com
-survey.ing.com
-sds2.ing.com
-assets.ing.com
-investors.ing.com
-brand.ing.com
-support.ing.com
-sk7p1100v831.ing.com
-sk7p1100v830.ing.com
-creditview.ing.com
-acceptance-marking.ing.com
-press.ing.com
-accept-art.ing.com
-acs-visa-v2-acc.ing.com
-acs-mc-v1.ing.com
-acs-visa-v2.ing.com
-acs-mc-v2-acc.ing.com
-acs-mc-v2.ing.com
-acs-visa-v1.ing.com
-3ds-acc.ing.com
-acshub.ing.com
-origin-acceptance.ing.com
-origin-acceptance-contr.ing.com
-enterpriseenrollment.ing.com
-ns10.ing.com
-ns13.ing.com
-ns12.ing.com
-av3.ing.com
-origin-contribution.ing.com
-origin-www.ing.com
-ns11.ing.com
-nydr.ing.com
-pat.ing.com
-av4.ing.com
-imagebank.ing.com
-stocks.ing.com
-mail5.ing.com
-art.ing.com
-mail4.ing.com
-enterpriseregistration.ing.com
-ing.com
-annualreview.ing.com
-av1.ing.com
-av2.ing.com
-brandportal.ing.com
-cdn.ing.com
-colouring.ing.com
-conf1.ing.com
-conf2.ing.com
-conf3.ing.com
-coo.ing.com
-developer.ing.com
-feedback.ing.com
-group2.ing.com
-in.ing.com
-ingworld.ing.com
-insidebusiness.ing.com
-internalsurvey.ing.com
-jaaroverzicht.ing.com
-marking.ing.com
-pki.ing.com
-psrv-ws.ing.com
-psrv.ing.com
-secure.ing.com
-sip1.ing.com
-sip2.ing.com
-stockquotes.ing.com
-survey2.ing.com
-surveys.ing.com
-timeorange.ing.com
-mybank.ing.com
-search-acc.ing.com
-search.ing.com
-conf4.ing.com
-sip3.ing.com
-sip4.ing.com
-api.ing.com
-mailing.ing.com
-extnotify.ing.com
-donate.ing.com
-acceptance.ing.com
-research.ing.com
-contribution.ing.com
-microfinance-seminar.ing.com
-mail3.ing.com
-uk.ing.com
-think.ing.com
-myaccount.ing.com
-m.ing.com
-lyncdiscover.ing.com
-webcast.ing.com
-internalvideo.ing.com
-video.ing.com
-mobile.ing.com
-acceptance-contr.ing.com
-www.ing.com
+- accept-online.ing.com
+- us-dist.ing.com
+- commercial.ing.com
+- online.ing.com
+- survey.ing.com
+- sds2.ing.com
+- assets.ing.com
+- investors.ing.com
+- brand.ing.com
+- support.ing.com
+- sk7p1100v831.ing.com
+- sk7p1100v830.ing.com
+- creditview.ing.com
+- acceptance-marking.ing.com
+- press.ing.com
+- accept-art.ing.com
+- acs-visa-v2-acc.ing.com
+- acs-mc-v1.ing.com
+- acs-visa-v2.ing.com
+- acs-mc-v2-acc.ing.com
+- acs-mc-v2.ing.com
+- acs-visa-v1.ing.com
+- 3ds-acc.ing.com
+- acshub.ing.com
+- origin-acceptance.ing.com
+- origin-acceptance-contr.ing.com
+- enterpriseenrollment.ing.com
+- ns10.ing.com
+- ns13.ing.com
+- ns12.ing.com
+- av3.ing.com
+- origin-contribution.ing.com
+- origin-www.ing.com
+- ns11.ing.com
+- nydr.ing.com
+- pat.ing.com
+- av4.ing.com
+- imagebank.ing.com
+- stocks.ing.com
+- mail5.ing.com
+- art.ing.com
+- mail4.ing.com
+- enterpriseregistration.ing.com
+- ing.com
+- annualreview.ing.com
+- av1.ing.com
+- av2.ing.com
+- brandportal.ing.com
+- cdn.ing.com
+- colouring.ing.com
+- conf1.ing.com
+- conf2.ing.com
+- conf3.ing.com
+- coo.ing.com
+- developer.ing.com
+- feedback.ing.com
+- group2.ing.com
+- in.ing.com
+- ingworld.ing.com
+- insidebusiness.ing.com
+- internalsurvey.ing.com
+- jaaroverzicht.ing.com
+- marking.ing.com
+- pki.ing.com
+- psrv-ws.ing.com
+- psrv.ing.com
+- secure.ing.com
+- sip1.ing.com
+- sip2.ing.com
+- stockquotes.ing.com
+- survey2.ing.com
+- surveys.ing.com
+- timeorange.ing.com
+- mybank.ing.com
+- search-acc.ing.com
+- search.ing.com
+- conf4.ing.com
+- sip3.ing.com
+- sip4.ing.com
+- api.ing.com
+- mailing.ing.com
+- extnotify.ing.com
+- donate.ing.com
+- acceptance.ing.com
+- research.ing.com
+- contribution.ing.com
+- microfinance-seminar.ing.com
+- mail3.ing.com
+- uk.ing.com
+- think.ing.com
+- myaccount.ing.com
+- m.ing.com
+- lyncdiscover.ing.com
+- webcast.ing.com
+- internalvideo.ing.com
+- video.ing.com
+- mobile.ing.com
+- acceptance-contr.ing.com
+- www.ing.com
