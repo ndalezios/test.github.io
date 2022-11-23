@@ -19,3 +19,10 @@
 - mailing.ing.com
 - enterpriseregistration.ing.com
 ---
+## DNS Failure from ing.com
+- accept-online.ing.com 	  		campaigns-acc.edgekey.net
+- online.ing.com 	  		campaigns.edgekey.net
+- survey.ing.com 	  		inggroup-primary.vanitydomains.qualtrics.com
+- assets.ing.com 	  		assets.ing.com.edgekey.net
+- brand.ing.com 	  		rr-brand-ing-com.getbynder.com
+
